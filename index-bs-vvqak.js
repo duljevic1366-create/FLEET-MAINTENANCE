@@ -1,0 +1,1 @@
+import{j as o}from"./index-DJgpw8S3.js";import{E as e}from"./ui-Bea_OJXN.js";const r=({error:t})=>o.jsx(e,{title:"The fleet deck could not load",body:t instanceof Error?t.message:"The maintenance database did not answer. Reload to try again."});export{r as errorComponent};
